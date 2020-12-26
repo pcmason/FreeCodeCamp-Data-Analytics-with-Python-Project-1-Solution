@@ -1,3 +1,5 @@
+Below is the project description. My solution can be found in demographic_data_analyzer.py in the file uploaded here. This is the solution to project 2.
+
 ### Assignment
 
 # Demographic Data Analyzer

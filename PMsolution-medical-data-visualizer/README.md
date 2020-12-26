@@ -1,3 +1,5 @@
+Below is the project description. My solution can be found in medical_data_visualizer.py in the file uploaded here. This is the solution to project 3.
+
 ### Assignment
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.

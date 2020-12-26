@@ -1,4 +1,4 @@
-Below is the project description. My solution can be found in mean_var_std.py in the file uploaded here. 
+Below is the project description. My solution can be found in mean_var_std.py in the file uploaded here. This is the solution to project 1.
 
 ### Assignment
 

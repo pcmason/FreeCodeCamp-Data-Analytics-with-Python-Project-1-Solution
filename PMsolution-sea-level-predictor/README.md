@@ -1,3 +1,5 @@
+Below is the project description. My solution can be found in sea_level_predictor.py in the file uploaded here. This is the solution to project 5.
+
 ### Assignment
 
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.

@@ -1,3 +1,5 @@
+Below is the project description. My solution can be found in time_series_visualizer.py in the file uploaded here. This is the solution to project 4.
+
 ### Assignment
 
 For this project you will visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
